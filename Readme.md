@@ -2,7 +2,7 @@
 Данный репозиторий содержит ноутбуки с учебными проектами по анализу данных на различных датасетах. 
 
 ## 1. Анализ резюме из HeadHunter 
-Ноутбук HeadHunter_analysis.ipynb
+Ноутбук [HeadHunter_analysis.ipynb](HeadHunter_analisys.ipynb)
 
 Проект состоит из 5 частей:
 1. Базовый анализ структуры данных
@@ -24,7 +24,7 @@
 [Датасет](https://disk.yandex.ru/i/jnzQA_yeFJgmvg) с регионами и городами
 
 ## 2. Статистический анализ датасета по теннису
-Ноутбук Tennis_matches_analysis.ipynb
+Ноутбук [Tennis_matches_analysis.ipynb](Tennis_matches_analysis.ipynb)
 
 Цель - проверить, как изменился мир тенниса за последнее время. 
 
@@ -34,7 +34,7 @@
 
 ## 3. Статистический анализ пространственной транскриптомики пациентов с плоскоклеточным раком
 
-Ноутбук bioinformatics_analysis.ipynb
+Ноутбук [bioinformatics_analysis.ipynb](bioinformatics_analysis.ipynb)
 
 Цель - проанализировать датасет и сделать статистически обоснованные выводы.
 
